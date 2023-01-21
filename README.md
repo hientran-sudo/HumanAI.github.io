@@ -1,5 +1,3 @@
-# Hello World 2
-
 # 1/21/22: 
 
 # We've created the Github Repository 
