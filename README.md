@@ -5,3 +5,8 @@
 # 1/28/23:
 
 # Work on the research paper is ongoing. The data for the project is still being refined. AUC (area_under_curve) has now been added to the results, therefore these results will be added to the paper as another important contribution. 
+
+
+# 2/4/23
+
+# The publications are being finalized for the conference. Abstracts are being prepared for two different conferences. The data that has been worked on is now completed. 
