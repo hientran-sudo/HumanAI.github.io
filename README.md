@@ -10,3 +10,7 @@
 # 2/4/23
 
 # The publications are being finalized for the conference. Abstracts are being prepared for two different conferences. The data that has been worked on is now completed. 
+
+# 2/11/23
+
+# The paper is being finished as of right now. Additional plots and data has been added to the paper. The paper has been updated to include everything that is needed for submission. 
