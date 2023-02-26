@@ -14,3 +14,11 @@
 # 2/11/23
 
 # The paper is being finished as of right now. Additional plots and data has been added to the paper. The paper has been updated to include everything that is needed for submission. 
+
+# 2/18/23 
+
+# One of the group members, Hien Tran, is working on the abstract to be submitted to the NEBEC Conference. The other two members, Marco Pezzolla and Lam Bui, are working on another abstract that will be submitted to the HCII Conference. The whole group met in order to discuss about the progress being made in the project that is being worked on and the abstracts as well. 
+
+# 2/25/23 
+
+# The progress for the abstract is almost complete as it is due very soon. New data for the project will be analyzed soon, so we must wait to receive the new data. Two group members, Miguel Cuahuizo & Marco Pezzolla, are helping Hien Tran in completing the abstract for the NEBEC Conference, so it can submitted as soon as possible. 
