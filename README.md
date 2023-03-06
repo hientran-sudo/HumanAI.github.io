@@ -22,3 +22,7 @@
 # 2/25/23 
 
 # The progress for the abstract is almost complete as it is due very soon. New data for the project will be analyzed soon, so we must wait to receive the new data. Two group members, Miguel Cuahuizo & Marco Pezzolla, are helping Hien Tran in completing the abstract for the NEBEC Conference, so it can submitted as soon as possible. 
+
+# 3/4/23 
+
+# One of the group members, Lam Bui, is working on the paper as of right now. Also, new subjects were added to the project, therefore Lam. is organizing the data from the extra subjects. Hien Tran has submitted the abstract to the NEBEC conference with the help of the other group members. 
