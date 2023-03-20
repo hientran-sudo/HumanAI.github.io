@@ -26,3 +26,7 @@
 # 3/4/23 
 
 # One of the group members, Lam Bui, is working on the paper as of right now. Also, new subjects were added to the project, therefore Lam. is organizing the data from the extra subjects. Hien Tran has submitted the abstract to the NEBEC conference with the help of the other group members. 
+
+# 3/11/23 
+
+# This week update includes one of the group members, Hien Tran, has submutted the travel grant in order to present the abstract she submitted to the NEBEC. Also, the poster for our project has commenced, and so it's currently underway and almost completed. Lam Bui, is working on extra data for the new subjects they received as a part of the project. 
