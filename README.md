@@ -30,3 +30,7 @@
 # 3/11/23 
 
 # This week update includes one of the group members, Hien Tran, has submutted the travel grant in order to present the abstract she submitted to the NEBEC. Also, the poster for our project has commenced, and so it's currently underway and almost completed. Lam Bui, is working on extra data for the new subjects they received as a part of the project. 
+
+# 3/25/23
+
+# For this week update, one of the group members, Hien Tran, has registered as the leader for our group for the Innovative Research Symposium. She is also working on the poster for the NEBEC Conference. Two other members of the group, Miguel Cuahuizo and Marco Pezzolla, are working on a separate poster for the Innovative Symposium. The last group member, Lam Bui, is currently working on the new data and will have graphs ready soon. 
