@@ -34,3 +34,7 @@
 # 3/25/23
 
 # For this week update, one of the group members, Hien Tran, has registered as the leader for our group for the Innovative Research Symposium. She is also working on the poster for the NEBEC Conference. Two other members of the group, Miguel Cuahuizo and Marco Pezzolla, are working on a separate poster for the Innovative Symposium. The last group member, Lam Bui, is currently working on the new data and will have graphs ready soon. 
+
+# 4/1/23 
+
+# This week update includes one of the group members, Lam Bui, has added new features to the data he received. The other two group members, Marco Pezzolla and Miguel Cuahuizo, has finished and submitted the poster for the Research Symposium that's coming up this month. Our last group member, Hien Tran, has finished designing and handed in her poster for the NEBEC conference.
