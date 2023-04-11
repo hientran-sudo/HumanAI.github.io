@@ -38,3 +38,7 @@
 # 4/1/23 
 
 # This week update includes one of the group members, Lam Bui, has added new features to the data he received. The other two group members, Marco Pezzolla and Miguel Cuahuizo, has finished and submitted the poster for the Research Symposium that's coming up this month. Our last group member, Hien Tran, has finished designing and handed in her poster for the NEBEC conference.
+
+# 4/8/23 
+
+# This week update includes several team members, Marco Pezzolla, Hien Tran and Miguel Cuahuizo, have created a powerpoint presentation that talks about our project in order to present for the next class. Lam Bui is still working on new results that will be added to the presentation soon. Every deadline has been met so far, which includes the submission of our poster for the Research Symposium that will be held in a few weeks. 
