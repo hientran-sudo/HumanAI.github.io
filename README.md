@@ -42,3 +42,7 @@
 # 4/8/23 
 
 # This week update includes several team members, Marco Pezzolla, Hien Tran and Miguel Cuahuizo, have created a powerpoint presentation that talks about our project in order to present for the next class. Lam Bui is still working on new results that will be added to the presentation soon. Every deadline has been met so far, which includes the submission of our poster for the Research Symposium that will be held in a few weeks. 
+
+# 4/15/23 
+
+# The poster is ready for the Research Symposium now. We added a few minor edits to the poster which includes the change of title. We are also revising the presentation, we presented last week, as part of the final presentation, therefore it will be submitted soon. The final report is also being worked on, so we just need to add a few more details and edit before finalizing it for submission. 
