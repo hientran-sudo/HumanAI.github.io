@@ -45,4 +45,4 @@
 
 # 4/15/23 
 
-# The poster is ready for the Research Symposium now. We added a few minor edits to the poster which includes the change of title. We are also revising the presentation, we presented last week, as part of the final presentation, therefore it will be submitted soon. The final report is also being worked on, so we just need to add a few more details and edit before finalizing it for submission. 
+# The poster is ready for the Research Symposium now. We added a few minor edits to the poster which includes the change of title. We are also revising the presentation, we presented last week, as part of the final presentation, therefore it will be submitted soon. The final report is also being worked on, so we just need to add a few more details and edit before finalizing it for submission.
